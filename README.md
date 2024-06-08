@@ -7,10 +7,6 @@ Dit project betreft de ontwikkeling van de WOGO-website, gebouwd met SvelteKit e
 
 ![detailpage2](https://github.com/sannevanseeventer/wogo/assets/112857444/0360856f-f564-4446-a658-09055efe0108)
 
-[Backlog](https://github.com/orgs/fdnd-agency/projects/29/views/1)
-
-[Main repository](https://github.com/mcphendriks/wogo)
-
 ## Kenmerken 🧰
 
 **TOOLS:**
@@ -24,3 +20,8 @@ Dit project betreft de ontwikkeling van de WOGO-website, gebouwd met SvelteKit e
 ## Licentie ⚠️
 This project is licensed under the terms of the MIT license.
 
+## Links 🔗
+
+[Backlog](https://github.com/orgs/fdnd-agency/projects/29/views/1)
+
+[Main repository](https://github.com/mcphendriks/wogo)
