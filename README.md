@@ -4,5 +4,5 @@
 
 [Backlog](https://github.com/orgs/fdnd-agency/projects/29/views/1)
 
-[Main repository](https://www.wogoamsterdam.com](https://github.com/mcphendriks/wogo)
+[Main repository](https://github.com/mcphendriks/wogo)
 
